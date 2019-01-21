@@ -5,6 +5,11 @@ It is an alternative towards 'fiddeling' around with your phones making the tran
 
 The application only accepts a public address so it is impossible to get ahold of anyones funds through this software only. 
 
+Important contributors: 
+
+- Spl3n for awesome technical help
+- 2infinity (Check out his A-Z guide for developing on ICON https://medium.com/@2infiniti/creating-icon-dapp-from-a-z-part-1-tools-environment-dd56f8dfc905 )
+
 Disclaimer: This software is still early alpha so it does include some flaws so to speak.
 
 Demo:
