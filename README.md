@@ -21,3 +21,6 @@ TODO:
 - Reorganize code.
 - add a pop-up window every time a new payment occurs for small period of time.
 - Fix the payments so that the latest payment is always at the top instead of bottom.
+
+
+Feel free to donate to fund stuff like logo design (Even though i've already made an order for that) and more with the address in the picture :D
