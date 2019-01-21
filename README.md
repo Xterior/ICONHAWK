@@ -12,3 +12,12 @@ Demo:
 
 
 ![alt text](https://i.imgur.com/Vq5lFET.jpg)
+
+
+
+TODO: 
+
+- Add logo above QR-Code.
+- Reorganize code.
+- add a pop-up window every time a new payment occurs for small period of time.
+- Fix the payments so that the latest payment is always at the top instead of bottom.
