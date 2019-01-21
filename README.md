@@ -24,5 +24,6 @@ TODO:
 
 
 
+_____________________________________________________________
 
-Feel free to donate to fund stuff like logo design (Even though i've already made an order for that) and more with the address in the picture :D
+Feel free to donate to fund stuff like logo design (Even though i've already made an order for that) and more with the address displayed in the picture :D
