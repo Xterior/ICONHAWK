@@ -34,3 +34,5 @@ _____________________________________________________________
 Feel free to donate to fund stuff like logo design (Even though i've already made an order for that):
 
 hx6601d72a45f173681a9122b74352d46cf8d00e87
+
+<3
