@@ -3,7 +3,7 @@ ICONHAWK monitors any transaction that occurs on selected public address you've 
 
 It is an alternative towards 'fiddeling' around with your phones making the transaction faster, smoother and more professional. It is especially useful for merchants to accept payments by using this software instead of their phones. 
 
-The application only accepts a public address so it is impossible to get ahold of anyones funds through this software only. 
+The application only accepts a public address so it is impossible to get ahold of anyones funds through this software only. Also: The QR-Code will be sized differently based on how many characters you put in. This was left in as a feature to help navigate the user if he put in the right public address or not. It is only a visual thing so in words case scenario you'll have to restart the application. 
 
 Important contributors: 
 
@@ -26,7 +26,6 @@ TODO:
 - Reorganize code.
 - add a pop-up window every time a new payment occurs for small period of time.
 - Fix the payments so that the latest payment is always at the top instead of bottom.
-
 
 
 _____________________________________________________________
