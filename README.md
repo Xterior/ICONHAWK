@@ -10,7 +10,7 @@ Important contributors:
 - Spl3n for awesome technical help
 - 2infinity (Check out his A-Z guide for developing on ICON https://medium.com/@2infiniti/creating-icon-dapp-from-a-z-part-1-tools-environment-dd56f8dfc905 )
 
-Disclaimer: This software is still early alpha (and requires development skills to run for now) it also include some flaws so to speak. It has also only been tested on Mac so if you have any issues on any other operating system HMU!
+Disclaimer: This software is still early alpha (and requires development knowledge to run for now) it also include some flaws so to speak. It has also only been tested on Mac so if you have any issues on any other operating system HMU!
 
 Demo:
 
