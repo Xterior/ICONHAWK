@@ -8,6 +8,8 @@ Download via Mediafire (Temporarily on there):
 
 https://www.mediafire.com/file/a99y6o06hdbx9g0/iconhawk.zip/file
 
+-- If you ever need to close the program just press ESC --
+
 
 
 Demo:
