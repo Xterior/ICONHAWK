@@ -18,9 +18,9 @@ Demo:
 
 
 
-Important contributors: 
+Extra thanks to: 
 
-- Spl3n for awesome technical help on telegram
+- Spl3n for awesome technical help on telegram (https://t.me/icondevs)
 - 2infinity (Check out his awesome A-Z guide for developing on ICON https://medium.com/@2infiniti/creating-icon-dapp-from-a-z-part-1-tools-environment-dd56f8dfc905 )
 
 
