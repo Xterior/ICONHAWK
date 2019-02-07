@@ -3,7 +3,7 @@ import blockgen
 import threading
 
 myObject = None
-listIndex = 1
+listIndex = 0
 recieverListAmount = []
 recieverListAdress = []
 
