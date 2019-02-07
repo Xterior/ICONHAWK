@@ -25,8 +25,7 @@ Extra thanks to:
 
 
 
-Disclaimer: This software is still early alpha (and requires development knowledge to run for now) it also include some flaws so to speak. It has also only been tested on Mac so if you have any issues on any other operating system HMU!
-
+Disclaimer: This software is still early alpha and may have some bugs in them. If you find any please report them to: icxhawk@gmail.com
 
 TODO: 
 
