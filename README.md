@@ -3,6 +3,9 @@ ICONHAWK monitors any transaction that occurs on selected public address you've 
 
 It is an alternative towards 'fiddeling' around with your phones and papers; making the transaction faster, smoother and more professional. It is especially useful for merchants for accepting payments by using this software. 
 
+DISCLAIMER: THIS ONLY WORKS ON MAC CURRENTLY AS OF RIGHT NOW SO PLEASE AWAIT FURTHER UPDATES IF YOU'RE ON WINDOWS!
+
+
 
 Download via Mediafire (Temporarily on there):
 
@@ -27,7 +30,7 @@ Extra thanks to:
 
 
 
-Disclaimer: This software is still early alpha and may have some bugs in them. If you find any please report them to: icxhawk@gmail.com
+Note: This software is still early alpha and may have some bugs in them. If you find any please report them to: icxhawk@gmail.com
 
 TODO: 
 
